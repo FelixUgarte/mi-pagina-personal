@@ -1,0 +1,25 @@
+{
+  "name": "mi-pagina-personal",
+  "version": "1.0.0",
+  "description": "Página personal para resaltar intereses y algunas que otras recomendaciones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felixu55/mi-pagina-personal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felixu55/mi-pagina-personal/issues"
+  },
+  "homepage": "https://github.com/Felixu55/mi-pagina-personal#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.10.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security"
+  }
+}

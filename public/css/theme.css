@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  background-color: gainsboro;
+  font-family: sans-serif;
+}
+
+main {
+  width: 90%;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 20px;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.center {
+  text-align: center;
+}
+
+/* Imagen */
+
+img {
+  width: 80%;
+}
+
+/* Listado nav bar */
+nav ul li {
+  list-style: none;
+  padding: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: darkblue;
+}
